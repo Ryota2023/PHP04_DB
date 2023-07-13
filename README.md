@@ -1,8 +1,8 @@
 # 課題10
 ●期限：2023/7/14　
 ●提出日：2023/7/13
-# PHP4回目「今日聴いた音楽を記録するアプリ」
-（SESSION機能）
+# PHP4回目「今日聴いた音楽を記録するアプリ」（SESSION機能）
+
 
 ## DEMO
 https://github.com/Ryota2023/PHP04_DB/tree/main
